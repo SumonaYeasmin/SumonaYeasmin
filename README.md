@@ -53,6 +53,8 @@ I'm a passionate **Frontend Web Developer** with a strong commitment to crafting
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=dark" width="100%"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 ## 📬 Contact Me  
 📍 **Location:** Dinajpur, Bangladesh  
 📧 **Email:** [sumonayeasmin570@gmail.com](mailto:sumonayeasmin570@gmail.com)  
