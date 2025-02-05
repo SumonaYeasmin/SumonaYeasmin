@@ -12,31 +12,41 @@
 - 🔭 I’m currently working on **a tourism website**  
 - 🌱 I’m exploring **Next.js and Tailwind CSS**  
 - 💬 Ask me about **React, JavaScript, and UI/UX Design**  
-- 📫 How to reach me: **sumonayeasmin@example.com**  
+- 📫 How to reach me: **sumonayeasmin570@gmail.com**  
 - ⚡ Fun fact: **I love solving frontend challenges!**  
 
 ---
 
 ## 🛠 **Skills & Technologies**  
 
+## 🛠 **Skills & Technologies**  
+
 ### 🚀 Frontend  
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)  
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-teal?style=flat-square&logo=tailwindcss)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
 ### 🏗 Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
 ### 🛢 Database  
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ### 🛠 Tools  
-![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
-![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode)  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
