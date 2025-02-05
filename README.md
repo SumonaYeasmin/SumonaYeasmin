@@ -39,10 +39,9 @@ I enjoy exploring new technologies and constantly improving my skills to stay ah
 ---
 
 ## 🔗 Social Links  
-<p align="left">
-  <a href="your_facebook_link"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
-  <a href="your_linkedin_link"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your_facebook_link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_link)  
+
 
 ---
 
