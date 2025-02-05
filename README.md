@@ -55,6 +55,18 @@ I'm a passionate **Frontend Web Developer** with a strong commitment to crafting
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 ## 📬 Contact Me  
 📍 **Location:** Dinajpur, Bangladesh  
 📧 **Email:** [sumonayeasmin570@gmail.com](mailto:sumonayeasmin570@gmail.com)  
