@@ -68,8 +68,8 @@ Always eager to learn and grow, I thrive on solving problems and bringing creati
 ---
 
 ## 🔗 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/SumonaYeasmin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](YOUR_TWITTER_URL)  
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+
 
 ---
