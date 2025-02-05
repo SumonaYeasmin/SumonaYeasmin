@@ -43,9 +43,9 @@ I'm a passionate **Frontend Web Developer** with a strong commitment to crafting
 ---
 
 ## 📊 My GitHub Stats  
-<p align="left">
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
-</p>
+
 
 
 <p align="left">
@@ -56,7 +56,8 @@ I'm a passionate **Frontend Web Developer** with a strong commitment to crafting
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-pre
+    )"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
