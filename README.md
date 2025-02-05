@@ -47,6 +47,11 @@ I'm a passionate **Frontend Web Developer** with a strong commitment to crafting
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonayeasmin&exclude_repo=github-readme-stats,sumonayeasmin.github.io)
 
 
+## 📊 My Stats  
+![Sumona Yeasmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumonaYeasmin&show_icons=true&theme=dark)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumonaYeasmin&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SumonaYeasmin&theme=dark)  
+
 
 <p align="left">
  <picture>
