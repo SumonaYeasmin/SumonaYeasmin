@@ -42,41 +42,10 @@ I'm a passionate **Frontend Web Developer** with a strong commitment to crafting
 
 ---
 
-## 📊 My GitHub Stats  
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonayeasmin&exclude_repo=github-readme-stats,sumonayeasmin.github.io)
-
 
 ## 📊 My Stats  
 ![Sumona Yeasmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumonaYeasmin&show_icons=true&theme=dark) 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumonaYeasmin&layout=compact&theme=dark) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonayeasmin&exclude_repo=github-readme-stats,sumonayeasmin.github.io)
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumonaYeasmin&theme=dark" width="100%"/>
-
-
-<p align="left">
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-pre
-    )"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-</p>
-
-
-
-## 📊 My Stats  
-![Sumona Yeasmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumonaYeasmin&show_icons=true&theme=dark)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumonaYeasmin&layout=compact&theme=dark) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonayeasmin&exclude_repo=github-readme-stats,sumonayeasmin.github.io)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumonayeasmin&exclude_repo=github-readme-stats,sumonayeasmin.github.io)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=dark)  
 
 ---
