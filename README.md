@@ -67,9 +67,9 @@ Always eager to learn and grow, I thrive on solving problems and bringing creati
 
 ---
 
-## 🔗 **Connect With Me**  
 
-[![Facebook](https://www.facebook.com/profile.php?id=100081334633054)(https://facebook.com/https://www.facebook.com/profile.php?id=100081334633054)
+## 🔗 Connect With Me  
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100081334633054)
 
 ---
