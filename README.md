@@ -42,11 +42,12 @@ I'm a passionate **Frontend Web Developer** with a strong commitment to crafting
 
 ---
 
-## 📊 My Stats  
+## 📊 My GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" width="48%"/>
 </p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=dark" width="100%"/>
