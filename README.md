@@ -8,19 +8,19 @@
 
 ---
 
-## 🚀 **About Me**  
-- 🔭 I’m currently working on **a tourism website**  
-- 🌱 I’m exploring **Next.js and Tailwind CSS**  
-- 💬 Ask me about **React, JavaScript, and UI/UX Design**  
-- 📫 How to reach me: **sumonayeasmin570@gmail.com**  
-- ⚡ Fun fact: **I love solving frontend challenges!**  
+## 🚀 **About Me**
+I'm a passionate Frontend Web Developer dedicated to crafting visually appealing and highly functional user interfaces. With a keen eye for design and a strong commitment to staying updated with the latest web technologies, I specialize in building responsive, user-friendly websites and applications. My goal is to create seamless digital experiences that are both aesthetic and efficient.
+Always eager to learn and grow, I thrive on solving problems and bringing creative ideas to life through code. ✨💻
 
----
+## 🚀 Current Activities  
+- 🔥 Exploring **Next.js** for building fast and scalable web applications.  
+- 🎨 Working on a **modern UI/UX project** to enhance user experience.  
+- 🌍 Developing a **tourism website** with interactive features.  
+- 🛠 Learning **TypeScript** to improve code maintainability.  
+- 📚 Researching **web accessibility (a11y)** to create inclusive designs.  
+- 🤝 Contributing to **open-source projects** and collaborating with developers.
 
-## 🛠 **Skills & Technologies**  
-
-## 🛠 **Skills & Technologies**  
-
+ --- 
 ## 🛠 **Skills & Technologies**  
 
 ### 🚀 Frontend  
