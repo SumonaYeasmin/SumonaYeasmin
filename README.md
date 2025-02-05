@@ -43,6 +43,7 @@ I enjoy exploring new technologies and constantly improving my skills to stay ah
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_link)  
 
 
+
 ---
 
 
