@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner Image" width="100%">
+  <img src="https://i.ibb.co.com/0yq9btt1/1679683081898.png" alt="Banner Image" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Sumona Yeasmin </h1>
