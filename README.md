@@ -44,28 +44,27 @@ I'm a passionate **Frontend Web Developer** with a strong commitment to crafting
 
 ## 📊 My GitHub Stats  
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=radical" width="48%"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 </p>
 
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=dark" width="100%"/>
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
-<picture>
+ <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+</p>
+
+
+
+
 
 ## 📬 Contact Me  
 📍 **Location:** Dinajpur, Bangladesh  
